@@ -1,5 +1,5 @@
 # ExcelApp 
-You can download app from here: http://drive.google.com/file/d/1ypj5gkLyrvBGR44eRru-F1ySN7zA_78W/view?usp=sharing
+You can download the app from here: http://drive.google.com/file/d/1ypj5gkLyrvBGR44eRru-F1ySN7zA_78W/view?usp=sharing
 #
 ![logo_123](https://github.com/Bigbosa/ExcelApp/assets/122636579/ed303fa0-b0c1-4e10-9e40-c451219fe0e7)
   
